@@ -48,4 +48,4 @@ After cleaning and merging:
 ## Conclusion
 The analysis shows that local brands tend to perform better in terms of customer sentiment, while global brands receive relatively mixed feedback. Platform differences also highlight how customer expression varies across sources.
 ## Author
-The author of this project is Kartikey Verma and this project was developed as part of an academic assignment in Business Analytics.
+The author of this project is Kartikey Verma and this project was developed for an academic dissertation.
